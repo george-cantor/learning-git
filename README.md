@@ -143,18 +143,4 @@ git push origin main
 
 ---
 
-# Learning Progress
-
-- [x] Installed Git
-- [x] Configured Git
-- [x] Learned Basic Git Commands
-- [ ] Branching
-- [ ] Merging
-- [ ] Pull Requests
-- [ ] GitHub Actions
-
----
-
-# Repository Purpose
-
 This repository contains my notes, commands, and practice files while learning Git and GitHub.
