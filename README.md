@@ -71,4 +71,4 @@ Push Changes
 
 Upload local repository content to GitHub:
 
-git push origin main
+git push origin main.
